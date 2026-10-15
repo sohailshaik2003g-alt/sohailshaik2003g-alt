@@ -6,8 +6,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=MSc+AI%2FML+Researcher;Specializing+in+Reasoning+%26+Post-Training+(GRPO%2C+NCV);Reliable+Vision-Language+Models+%26+Explainability;Self-Repairing+Neural+Cellular+Automata;Empirical+Rigour+%E2%80%A2+Paper+Replications+%E2%80%A2+PyTorch+Native)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="mailto:sohailshaik2003g@gmail.com"><img src="https://img.shields.io/badge/Email-sohailshaik2003g-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
-  <a href="https://linkedin.com/in/sohailshaik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sohail_Shaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:sohailshaik2003@gmail.com"><img src="https://img.shields.io/badge/Email-sohailshaik2003g-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <!-- <a href="https://linkedin.com/in/sohailshaik" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Sohail_Shaik-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a> -->
   <a href="https://github.com/sohailshaik2003g-alt"><img src="https://img.shields.io/badge/GitHub-sohailshaik2003g--alt-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   <a href="#-get-in-touch"><img src="https://img.shields.io/badge/Open_to-Full--Time_Roles_%7C_Research-00C853?style=for-the-badge" alt="Status" /></a>
 </p>
@@ -153,6 +153,6 @@ I am actively open to discussions regarding:
 
 <div align="center">
 
-📫 **Email**: [sohailshaik2003g@gmail.com](mailto:sohailshaik2003g@gmail.com) • 🌐 **LinkedIn**: [linkedin.com/in/sohailshaik](https://linkedin.com/in/sohailshaik) • 📍 **Location**: Open to Relocation & Remote (EU / Global)
+📫 **Email**: [sohailshaik2003g@gmail.com](mailto:sohailshaik2003g@gmail.com) • 🌐 **LinkedIn**:  • 📍 **Location**: Germany (EU / Global)
 
 </div>
